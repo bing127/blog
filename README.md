@@ -4,15 +4,15 @@
 - [目录](blog/README.md)
 - 前端
     - 框架
-        - 1. 
+        - 1 
     - Node
-        - 1. [使用Node.js开发简单的脚手架工具](blog/FrontEnd/Node/1.md)
+        - 1 [使用Node.js开发简单的脚手架工具](FrontEnd/Node/1.md)
     - Javascript
-        - 1.
+        - 1
 - 后端
     - Go
-        - 1.
+        - 1
     - Python
-        - 1.
+        - 1
 - 移动端
     - Flutter
